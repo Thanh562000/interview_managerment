@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# interview_managerment
-=======
+
 # Interview Management System
 
 ## Getting started
